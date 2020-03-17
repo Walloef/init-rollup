@@ -1,0 +1,1 @@
+export const arr = () => [9,2,3,111]

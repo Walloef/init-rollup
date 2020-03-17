@@ -1,0 +1,1 @@
+{"version":3,"sources":["body.scss"],"names":[],"mappings":"AAAA,KACE,iBAAoB,CAEtB,4BACE,UAAa,CADf,mBACE,UAAa,CADf,uBACE,UAAa,CADf,wBACE,UAAa,CADf,cACE,UAAa","file":"style.css","sourcesContent":["body {\n  background: tomato; }\n\n::placeholder {\n  color: gray; }\n"]}

@@ -1,0 +1,8 @@
+body {
+    background: tomato;
+}
+
+//Will add autoprefixes to all css things that needs it
+::placeholder {
+    color: gray;
+  }
